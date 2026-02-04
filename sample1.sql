@@ -8,7 +8,7 @@
 -- Table structure for table `user_details`
 --
 
-CREATE TABLE IF NOT EXISTS `user_details` (
+CREATE TABLE IF NOT EXISTS `user_details_123` (
   `user_id` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(255) DEFAULT NULL,
   `first_name` varchar(50) DEFAULT NULL,
